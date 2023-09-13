@@ -17,7 +17,7 @@ title: Ryan Matthew Grajewski
 description: >- # this means to ignore newlines until "baseurl:"
   Mechanical Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://rmgrajewski.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://ryangrajewskiportfolio.github.io/site/ # the base hostname & protocol for your site, e.g. http://example.com
 colorscheme: scheme-jlb-invert # Color schemes defined in rlstevenson.scss
 paginate: 3
 paginate_path: "/blog/page:num/"
